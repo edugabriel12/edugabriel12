@@ -5,8 +5,8 @@
 - ❤️ I love creating smart and sophisticated tech solutions to solve real world problems.
 <div align="center">
   <a href="https://github.com/edugabriel12">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=edugabriel12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugabriel12&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=edugabriel12&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugabriel12&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
 ### 🚀 Stack:
@@ -20,4 +20,3 @@
   <img align="center" alt="Edu-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
   
-  ##
