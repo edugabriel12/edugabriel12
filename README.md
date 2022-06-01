@@ -1,6 +1,6 @@
 ### Hi there, I'm Eduardo Gabriel! 👋
 
-- 💼 BackEnd developer at https://codexjr.com.br/
+- 💼 BackEnd developer at CodeX Jr.
 - 💡 “Technology like art is a soaring exercise of the human imagination.” – Daniel Bell
 - ❤️ I love creating smart and sophisticated tech solutions to solve real world problems.
 <div align="center">
