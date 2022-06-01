@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugabriel12&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-- 🚀 Stack:
+- 🚀 Stack
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
