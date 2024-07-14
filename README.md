@@ -1,6 +1,6 @@
 ### Hi there, I'm Eduardo Gabriel! 👋
 
-- 💼 Java Developer at SysMap Solutions.
+- 💼 Software Engineer at PicPay.
 - 📖 Computer Science Undergraduate Student at Universidade Federal de Campina Grande
 - 💡 “Technology like art is a soaring exercise of the human imagination.” – Daniel Bell
 - ❤️ I love creating smart and sophisticated tech solutions to solve real world problems.
